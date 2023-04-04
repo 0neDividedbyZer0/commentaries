@@ -2,7 +2,7 @@
 title: "Zen demo site"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
-languageCode: "en-GB"
+languageCode: "en-US"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
@@ -10,7 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Fredrik Jonsson"
+  name: "Maverick Zhang"
   url: "https://xdeb.org"
 
 markup:
@@ -50,7 +50,7 @@ languages:
   en:
     weight: 1
     languageName: "English"
-    languageCode: "en-GB"
+    languageCode: "en-US"
     contentDir: content/en
   sv:
     weight: 2

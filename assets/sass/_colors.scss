@@ -1,0 +1,95 @@
+// stylelint-disable color-no-hex, color-named, value-list-max-empty-lines
+// stylelint-disable scss/dollar-variable-colon-space-after, scss/dollar-variable-empty-line-before
+
+// Base colors.
+$black:                 #000;
+$nearblack:             lighten($black, 20%); // #333
+$grey-dark:             lighten($black, 40%); // #666
+$grey:                  lighten($black, 60%); // #999
+$grey-light:            lighten($black, 80%); // #ccc
+$grey-extra-light:      lighten($black, 93.33%); // #eee
+$white:                 #fff;
+
+$blue:                  #0072b9;
+$red:                   #c4183a;
+$green:                 #43a808;
+$yellow:                #fd0;
+
+$brand:                 $nearblack;
+$brand-alt:             $grey;
+$brand-light:           $grey-light;
+$brand-dark:            $grey-dark;
+
+// Colour map.
+$colors: (
+  brand:                  $black,
+  brand-alt:              $black,
+  brand-light:            $brand-light,
+  brand-dark:             $brand-dark,
+
+  text:                   $grey,
+  text-bg:                $red,
+  text-meta:              $grey-dark,
+
+  link:                   $red,
+  link-visited:           $red,
+  link-hover:             $brand,
+  link-active:            $red,
+
+  link-inverted:          $white,
+  link-visited-inverted:  $white,
+  link-hover-inverted:    $white,
+  link-active-inverted:   $red,
+
+  border:                 $brand,
+  border-light:           $brand-light,
+  border-dark:            $brand-dark,
+
+  autocomplete:           $black,
+  autocomplete-bg:        $white,
+  autocomplete-select:    $white,
+  autocomplete-select-bg: $blue,
+
+  body-bg:                $black,
+  header-bg:              $black,
+  footer-bg:              $black,
+  backdrop:               $black,
+
+  mobile-menu:            $brand,
+  mobile-menu-cover:      rgba($black, .2),
+
+  button:                 $brand,
+  button-hover:           $brand-dark,
+  button-text:            $white,
+  button-text-hover:      $white,
+  button-disabled:        $grey,
+
+  form-error:             $red,
+
+  mark-highlight:         $red,
+  mark-bg:                $yellow,
+
+  menu-active:            $black,
+
+  preview-bg:             lighten($yellow, 43%),
+
+  row-stripe:             $white,
+  row-disabled:           $grey-light,
+
+  status:                 $green,
+  status-bg:              lighten($green, 62%),
+  status-highlight:       $black,
+  warning:                $black,
+  warning-bg:             lighten($yellow, 45%),
+  warning-border:         $yellow,
+  error:                  $red,
+  error-bg:               lighten($red, 57%),
+
+  watermark:              $grey-extra-light,
+
+  headings:               $red,
+
+  code:                   $nearblack,
+
+  highlight:              $black,
+);

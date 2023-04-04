@@ -1,16 +1,9 @@
 ---
-title: The Zen demo site
+title: Commentaries of an Eclectic Leftist
 date: 2022-08-03T20:48:20+02:00
 
 ---
-
-This is a demo site for the [Hugo zen theme](https://github.com/frjo/hugo-theme-zen) (GitHub).
-
-Source code for [Zen demo site](https://github.com/frjo/zen-demo) (GitHub).
-
-This is the theme I have built to have a good base for all my own Hugo projects. I normally extend it during new projects when I come up with fixes and solutions that I think will be generally useful.
-
-I am happy to see that other people also have found it useful.
+Hi
 
 ## Styles
 
