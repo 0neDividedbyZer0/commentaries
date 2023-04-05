@@ -1,7 +1,7 @@
 ---
 title: Math
 math: true
-
+draft: true
 ---
 
 ## Math typesetting with KaTeX

@@ -21,7 +21,7 @@
     width: 100%; }
   :link,
   :visited {
-    text-decoration: underline; }
+    text-decoration: none; }
   abbr[title]::after {
     content: " (" attr(title) ")"; } }
 

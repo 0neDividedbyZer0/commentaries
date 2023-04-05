@@ -51,13 +51,13 @@ $font-size: $font-size-fixed;
 // Font weights.
 // Use like this: var(--fw-normal)
 $font-weight: (
-  headings:   700,
+  headings:   500,
   bolder:     900,
   bold:       700,
-  medium:     500,
-  normal:     400,
-  light:      300,
-  lighter:    200,
+  medium:     400,
+  normal:     300,
+  light:      200,
+  lighter:    100,
 );
 
 // The following font family declarations use widely available fonts.
@@ -87,10 +87,10 @@ $ui-monospace:    ui-monospace, Menlo, 'Cascadia Mono', 'Segoe UI Mono', 'Noto S
 // Font family.
 // Use like this: var(--ff-body)
 $font-family: (
-  body:       $ui-serif,
+  body:       $futura, //ui-serif
   headings:   $ui-sans-serif,
   alt:        $system-ui,
-  monospace:  $ui-monospace,
+  monospace:  $georgia,//$ui-monospace,
 );
 
 // Breakpoints

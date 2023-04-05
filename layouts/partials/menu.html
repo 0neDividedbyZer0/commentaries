@@ -16,9 +16,7 @@
 {{ range where site.RegularPages "Section" "" -}}
 <a href="{{ .RelPermalink }}"{{ if eq $currentID .File.UniqueID }} class="active" aria-current="page"{{ end }}>{{ .Title }}</a>
 {{ end -}}
-{{ range site.Sections -}}
-<a href="{{ .RelPermalink }}"{{ if eq $currentSection .Section }} class="active" aria-current="page"{{ end }}>{{ .Title }}</a>
-{{ end -}}
+
 
 {{ end -}}
 </ul>

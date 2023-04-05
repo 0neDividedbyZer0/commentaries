@@ -1,5 +1,5 @@
 ---
-title: "Zen demo site"
+title: "Commentaries of an Eclectic Leftist"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
 languageCode: "en-US"
@@ -10,7 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Maverick Zhang"
+  name: ""
   url: "https://xdeb.org"
 
 markup:
@@ -31,19 +31,19 @@ outputs:
 
 params:
   contact: "frjo@xdeb.org"
-  copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
+  copyright: You may freely use and reuse this site's content with attribution #'<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
-  feedlinks: true
+  feedlinks: false
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
   logoWidth: 64
   mobileMenu: true
-  poweredby: true
+  poweredby: false
   realfavicongenerator: true
-  sidebar: true
+  sidebar: false
   submitted: true
 
 languages:
@@ -52,8 +52,4 @@ languages:
     languageName: "English"
     languageCode: "en-US"
     contentDir: content/en
-  sv:
-    weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+  
