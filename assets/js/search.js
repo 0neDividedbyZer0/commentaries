@@ -65,9 +65,9 @@ import * as params from '@params';
       e.preventDefault();
       doSearch();
     });
-    searchform.addEventListener('input', function () {
-      doSearch();
-    });
+    //searchform.addEventListener('input', function () {
+    //  doSearch();
+    //});
     document.querySelector('.search-loading').classList.add('hidden');
     document.querySelector('.search-input').classList.remove('hidden');
     document.querySelector('.search-text').focus();
