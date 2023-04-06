@@ -40,8 +40,8 @@
     margin: 0;
     padding: 0 .3rem;
     font-weight: var(--fw-bold);
-    background-color: var(--color-text-bg);
-    color: var(--color-text);
+    background-color: #000;
+    color: #c4183a;
     z-index: 22;
     border: 1px solid var(--color-border);
     pointer-events: auto; }
@@ -53,7 +53,7 @@
     .mobile-nav__toggle:hover svg, .mobile-nav__toggle:focus-visible svg {
       fill: var(--color-text-bg); }
   .mobile-nav__hamburger {
-    fill: var(--color-text);
+    fill: #c4183a;
     width: 1.6rem;
     margin-left: .1rem; }
     .mobile-nav__hamburger rect {

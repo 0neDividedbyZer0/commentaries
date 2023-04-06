@@ -25,12 +25,12 @@
   --color-header-bg: #000;
   --color-footer-bg: #000;
   --color-backdrop: #000;
-  --color-mobile-menu: #333333;
+  --color-mobile-menu: #000;
   --color-mobile-menu-cover: rgba(0, 0, 0, 0.2);
   --color-button: #333333;
-  --color-button-hover: #666666;
-  --color-button-text: #fff;
-  --color-button-text-hover: #fff;
+  --color-button-hover: #000;
+  --color-button-text: #c4183a;
+  --color-button-text-hover: #c4183a;
   --color-button-disabled: #999999;
   --color-form-error: #c4183a;
   --color-mark-highlight: #c4183a;

@@ -55,13 +55,13 @@ $colors: (
   footer-bg:              $black,
   backdrop:               $black,
 
-  mobile-menu:            $brand,
+  mobile-menu:            $black,
   mobile-menu-cover:      rgba($black, .2),
 
   button:                 $brand,
-  button-hover:           $brand-dark,
-  button-text:            $white,
-  button-text-hover:      $white,
+  button-hover:           $black,
+  button-text:            $red,
+  button-text-hover:      $red,
   button-disabled:        $grey,
 
   form-error:             $red,
