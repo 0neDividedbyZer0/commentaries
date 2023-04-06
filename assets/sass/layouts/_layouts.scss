@@ -22,6 +22,10 @@
   &__cookieconsent {
     padding-inline: var(--gutters);
     min-width: 0;  // With display grid defaults to auto, making <pre> overflow.
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   @if $max-page-width > $max-content-width {
@@ -52,8 +56,6 @@
                            'nav'
                            'top'
                            'main'
-                           'side1'
-                           'side2'
                            'bottom'
                            'foot'
                            'notice';
@@ -61,8 +63,6 @@
                           auto
                           auto
                           1fr
-                          auto
-                          auto
                           auto
                           auto
                           auto;
