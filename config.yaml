@@ -10,7 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: ""
+  name: "Maverick Zhang"
   url: "https://xdeb.org"
 
 markup:
@@ -44,7 +44,7 @@ params:
   poweredby: false
   realfavicongenerator: true
   sidebar: false
-  submitted: true
+  submitted: false
 
 languages:
   en:
