@@ -13,8 +13,18 @@ author:
   name: "Maverick Zhang"
   url: "https://xdeb.org"
 
+# https://github.com/yuin/goldmark https://gohugo.io/getting-started/configuration-markup/ 
 markup:
   goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
     renderer:
       unsafe: true
 
