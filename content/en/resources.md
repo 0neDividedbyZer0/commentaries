@@ -3,7 +3,7 @@ title: Resources
 draft: true
 ---
 
-An index for theories. 
+An index for sources.
 
 ## No Theory
 TBD link to postmodernism and middle theory article: but the short of it is that in social sciences, we don't have theories anymore. Kinda.

@@ -2,9 +2,10 @@
 title: What's Cooking?
 draft: false
 ---
-What's coming down the pipeline?
+
+These are some of my planned pieces. Nothing on this list is guaranteed to make it to the website.
 
 1. Two pieces on the Asian elder shootings
-2. Studying Black movements and Black feminist theory
-3. Researching Chinese origins of anarchist theory
-
+2. Some pieces on recent methodology in social science
+3. A quick history of social issues facing us for people born after 1980
+4. Clarifying definitions and dispelling conservative disinformation
