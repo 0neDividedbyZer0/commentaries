@@ -4,4 +4,5 @@ date: 2022-08-03T20:48:20+02:00
 
 ---
 
-
+Still getting things off the ground. Will write up my thoughts on the Asian elder shootings soon.
+Things on this site may change in the coming days and months.
