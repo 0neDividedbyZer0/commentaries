@@ -1,6 +1,6 @@
 ---
 title: Against "Theory"
-draft: false
+draft: true
 comments: true
 ---
 Date added: 2023 April 6  
@@ -23,6 +23,8 @@ It makes sense that many of us would assume there's a grand theory of mankind ou
 For a time, there were *assumed* grand theories. Marxism is one of the most famous, as was Social Darwinism. **Modernism** can be defined as a belief in social grand theories, and we were in the modernist era until relatively recently. 
 
 One of the biggest reasons we have moved away from grand theories is because thus far, none of the useful ones have held true once you consider unignorable exceptions, and of the ones that are true, these are so useless they are basically unhelpful. For example, Social Darwinism isn't true. It's an argument premised on racism and views societal or economic success based on one's fitness, a very vague notion that basically meant you were white and born rich. Social Darwinism is premised on the idea that life and history is competition, but there's piles of evidence saying otherwise: we're born social animals, we have families that are premised on cooperation and raise us (supposedly) cooperatively, and - the smoking gun - competition breeds cooperation.[^3]
+
+Or take Marxism. Marxism tells history as a story of class struggle, that different groups of varying economic backgrounds struggle to obtain their best 
 
 (just-so/determinism/probability argument, social constructivism/science is less strict than you think, postmodernism, middle theory/modeling, statistics: all models are wrong, some models are useful, type X error, lack of other perspectives becomes stale and rigid)
 

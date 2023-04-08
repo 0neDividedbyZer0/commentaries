@@ -1,6 +1,6 @@
 ---
 title: Resources
-draft: false
+draft: true
 ---
 
 An index for theories. 
