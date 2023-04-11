@@ -1,6 +1,6 @@
 ---
 title: Reactions Without Sense
-draft: true
+draft: false
 comments: true
 ---
 Date added: 2023 April 10  
@@ -19,7 +19,7 @@ Last modified: 2023 April 10
 6. [Resources](#resources)
 
 ## Reactions Without Sense:
-### Asian American Reactions to the Monterey Park and Half Moon Bay Shootings
+### Asian American Reactions to the 2023 Shootings
 
 *Dedicated to the victims:* 
 
@@ -285,57 +285,41 @@ In the face of such historical ill will, that friendship between Asians and Amer
 ### Sources for Sociohistorical Context
 A cursory course in Asian American history is good, but I would argue not enough. I do understand that people have lives and can’t dedicate their time to these things. However, an understanding of these problems and their solutions come with extended reading. There’s a lot of popularly recommended readings that I see the flaws in, so here is a (very) short shortlist of material I enjoyed or have heard is decent. It is biased towards Chinese Americans as that is what I know primarily (and because problems from or directed towards Chinese Americans disproportionately affect the rest of Asian America). They are not in any order.
 * *The Making of Asian America: A History* - Erika Lee
-    * This is a broad overview of Asian American history, by one of our finest historians.
 * *The Chinese Question: The Gold Rushes and Global Politics* - Mae Ngai
-    * This is an award winning history of the Chinese Gold Rush
 * *The Chinese Experience in America* - Shih-Shan Henry Tsai
-    * This considers the geopolitical element and relations between Chinese Americans to the Chinese Qing dynasty.
 * *Racial Formation in the United States* - Michael Omi, Howard Winant
-    * This is a good synthesis of racial theories in America. For example, you learn about OMB Statistical Directive No. 15 in it, which is one of the most influential bureaucratic directives you’ve never heard of in the formation and maintenance of American racism.
 * *Orientalism* - Edward Said
-    * This is required reading. Asian American discrimination is explicitly a result of Orientalism. This is what makes it different from other minority discrimination (aside from Latin people who suffer from Orientalism as well).
 * *Hatchet Men: The Story of the Tong Wars in San Francisco's Chinatown* - Richard H. Dillon
-    * This book is a story of the Tong wars, wars between Chinese American gangs in San Francisco.
 * *Getting Saved in America: Taiwanese Immigration and Religious Experience* - Carolyn Chen
-    * Taiwanese Americans become religiously radicalized in America, either if they are Christians or Buddhism. There’s a lot of stress that comes from immigration, even for those well off during their move.
-* *The Shifting Grounds of Race: Black and Japanese Americans in the Making of Multiethnic Los Angeles* - Scott Kurashige
-    * It is a history of Los Angeles told through Japanese and Black American lenses, and also describes the effects of Japanese internment.
+* *The Shifting Grounds of Race* - Scott Kurashige
 * *Blue Dreams: Korean Americans and the Los Angeles Riots* - Nancy Abelmann, John Lie
-    * This is an ethnography of the Korean Americans involved in the LA Race riots. It is more informative than the usual narrative, by taking into account one of the groups affected rather than assuming their position.
 * *The Racial Triangulation of Asian Americans* - Claire Jean Kim
-    * A very important paper, though not complete. But almost a required reading for any Asian Americans, and evidence enough that an exceptionalist approach is unreasonable.
 * *Empire of Care: Nursing and Migration in Filipino American History* - Catherine Ceniza Choy
-    * If you have wondered why Filipino people become nurses, this is why. The impact of COVID on Filipinos has been disproportional, and it should be noted that in the midst of a global pandemic, the Philippines is suffering from a nurse shortage.
 * *Asian American Panethnicity: Bridging Institutions and Identities* - Yan Le Espiritu
-    * A highly influential book that argued for Asian American panethnicity. I do not think it really holds up to scrutiny, but it is important to know and read.
-* Southeast Asian histories or lack thereof
-    * If I had a very good recommendations for Hmong, Cambodian, Laotian, Thai, and Vietnamese American history, I would place them here, but none really exist, due to the recency of these immigration waves. Most were ethnographies and data gathering. Historians of minority groups often come from those minorities, so the generation of historians that will eventually write these histories is still in the making. There are some preliminary histories out there though, if one does a search, but usually they are of dubious quality or went completely under the radar perhaps for good reasons.
-    * *Unsettled: Cambodian Refugees in the New York City Hyperghetto* - Eric Tang; this is an ethnography along the lines of Blue Dreams, but it is of high quality on inspection.
-    * *Hmong America: Reconstructing Community in Diaspora* - Chia Youyee Vang; this is apparently the first scholarly book by someone who is Hmong on the Hmong community, and was published in 2010, to put into perspective how recent scholars of Southeast Asian history are, and it is largely ethnography and not really history yet. 
 
-[^1]: From  https://www.montereypark.ca.gov/669/Lunar-New-Year-Festival: “Past Lunar New Year events in Monterey Park have drawn crowds estimated at over 100,000 visitors per day from all over the Southern California area”
+[^1]: From [here](https://www.montereypark.ca.gov/669/Lunar-New-Year-Festival): “Past Lunar New Year events in Monterey Park have drawn crowds estimated at over 100,000 visitors per day from all over the Southern California area”
 
-[^2]: https://web.archive.org/web/20230122085401/https://www.pasadenastarnews.com/2023/01/22/shooting-at-monterey-park-lunar-new-year-event-investigated/
+[^2]: From [here](https://web.archive.org/web/20230122085401/https://www.pasadenastarnews.com/2023/01/22/) and [here](shooting-at-monterey-park-lunar-new-year-event-investigated/)
 
-[^3]: https://www.nbcnews.com/now/video/911-calls-released-from-monterey-park-shooting-162618437692 
+[^3]: From [NBC](https://www.nbcnews.com/now/video/911-calls-released-from-monterey-park-shooting-162618437692)
 
-[^4]: https://www.sgvtribune.com/2023/01/23/shooter-fired-42-rounds-in-monterey-park-massacre-motive-not-yet-known/ 
+[^4]: [Source](https://www.sgvtribune.com/2023/01/23/shooter-fired-42-rounds-in-monterey-park-massacre-motive-not-yet-known/)
 
-[^5]: https://web.archive.org/web/20230124010746/https://www.latimes.com/california/story/2023-01-23/victims-identified-in-the-monterey-park-shooting 
+[^5]: [Source](https://web.archive.org/web/20230124010746/https://www.latimes.com/california/story/2023-01-23/victims-identified-in-the-monterey-park-shooting)
 
-[^6]: Content warning: there are dead bodies in the photos: https://www.chineseinla.com/hotnews/2436003.html 
+[^6]: [Content warning: there are dead bodies in the photos](https://www.chineseinla.com/hotnews/2436003.html)
 
-[^7]: https://www.nytimes.com/2023/01/22/us/shooting-monterey-park-california.html 
+[^7]: From [*New York Times*](https://www.nytimes.com/2023/01/22/us/shooting-monterey-park-california.html)
 
-[^8]: https://www.nytimes.com/2023/01/23/us/monterey-park-hero.html
+[^8]: From [*New York Times*](https://www.nytimes.com/2023/01/23/us/monterey-park-hero.html)
 
-[^9]: From https://www.cnn.com/us/live-news/los-angeles-mass-shooting-01-22-2023/h_0c611137567474b49b7a091cae2db9db: “Shortly after the attack, authorities say the gunman showed up at a second studio in nearby Alhambra, where a group of people confronted and disarmed him.”
+[^9]: From [CNN](https://www.cnn.com/us/live-news/los-angeles-mass-shooting-01-22-2023/h_0c611137567474b49b7a091cae2db9db): “Shortly after the attack, authorities say the gunman showed up at a second studio in nearby Alhambra, where a group of people confronted and disarmed him.”
 
-[^10]: https://www.cnn.com/us/live-news/los-angeles-mass-shooting-01-22-2023/index.html - “Police received a tip Sunday from an area hospital where a man fitting the description of the suspect came into the emergency room seeking treatment for injuries consistent with having been in a fight. The man waited for a period of time and then left the hospital without receiving treatment. The hospital notified authorities when they saw the similarity to the wanted person depicted in photos on the sheriff's department's Twitter account.
+[^10]: From [CNN](https://www.cnn.com/us/live-news/los-angeles-mass-shooting-01-22-2023/index.html) - “Police received a tip Sunday from an area hospital where a man fitting the description of the suspect came into the emergency room seeking treatment for injuries consistent with having been in a fight. The man waited for a period of time and then left the hospital without receiving treatment. The hospital notified authorities when they saw the similarity to the wanted person depicted in photos on the sheriff's department's Twitter account.
 
-[^11]: https://www.nbcnews.com/news/us-news/live-blog/live-updates-mass-shooting-monterey-park-california-manhunt-gunman-lun-rcna66887 
+[^11]: From [NBC](https://www.nbcnews.com/news/us-news/live-blog/live-updates-mass-shooting-monterey-park-california-manhunt-gunman-lun-rcna66887)
 
-[^12]: https://library.fes.de/libalt/journals/swetsfulltext/6859319.pdf
+[^12]: [Here's the paper](https://library.fes.de/libalt/journals/swetsfulltext/6859319.pdf)
 
 [^13]: Look up the Tulsa Race Massacre, and the Greenwood District, which was known as “Black Wall Street.”
 
@@ -347,34 +331,34 @@ A cursory course in Asian American history is good, but I would argue not enough
 
 [^17]: The book to read is *Blue Dreams: Korean Americans and the Los Angeles Riots*. The opinions by Koreans towards the race riots was extraordinarily diverse, and it was overlooked due to politicization and because news reporters could not speak Korean.
 
-[^18]: https://www.independent.co.uk/news/world/americas/crime/monterey-park-shooting-survivor-death-threat-b2267575.html
+[^18]: [Source](https://www.independent.co.uk/news/world/americas/crime/monterey-park-shooting-survivor-death-threat-b2267575.html)
 
-[^19]: https://apnews.com/article/lifestyle-spas-massage-business-shootings-shootings-8b4fa8d0217180eef6f02111d5354345 
+[^19]: [Source](https://apnews.com/article/lifestyle-spas-massage-business-shootings-shootings-8b4fa8d0217180eef6f02111d5354345)
 
 [^20]: A more elaborate critique of punitive justice would take a long time, but that punishment is first and foremost in the system is the biggest problem. There’s no room for other methods that could be more appropriate, and the effect is disproportionate amongst minorities.
 
-[^21]: https://www.theatlantic.com/culture/archive/2023/01/monterey-park-shooting-trauma-psychology/672844/ and https://www.theatlantic.com/culture/archive/2023/01/monterey-park-mass-shooting-victims-asian-americans/672827
+[^21]: [Here](https://www.theatlantic.com/culture/archive/2023/01/monterey-park-shooting-trauma-psychology/672844/) and [here](https://www.theatlantic.com/culture/archive/2023/01/monterey-park-mass-shooting-victims-asian-americans/672827)
 
-[^22]: https://www.huffpost.com/entry/california-shootings-asian-american-grief_n_63d2afece4b07c0c7e0202c8 
+[^22]: [Source](https://www.huffpost.com/entry/california-shootings-asian-american-grief_n_63d2afece4b07c0c7e0202c8) 
 
-[^23]: https://www.elle.com/culture/career-politics/a42792380/monterey-park-lunar-new-year-mass-shooting-ethnoburb/ 
+[^23]: [Source](https://www.elle.com/culture/career-politics/a42792380/monterey-park-lunar-new-year-mass-shooting-ethnoburb/) 
 
-[^24]: https://www.aljazeera.com/news/2023/1/23/monterey-park-gun-attack-shocks-close-knit-california-community 
+[^24]: [Source](https://www.aljazeera.com/news/2023/1/23/monterey-park-gun-attack-shocks-close-knit-california-community)
 
-[^25]: https://www.nytimes.com/2023/01/28/opinion/asian-american-gun.html 
+[^25]: [Source](https://www.nytimes.com/2023/01/28/opinion/asian-american-gun.html)
 
-[^26]: ibid https://www.elle.com/culture/career-politics/a42792380/monterey-park-lunar-new-year-mass-shooting-ethnoburb/ 
+[^26]: ibid *Elle*
 
-[^27]: https://theconversation.com/typical-mass-shooters-are-in-their-20s-and-30s-suspects-in-californias-latest-killings-are-far-from-that-average-198486 
+[^27]: [Source](https://theconversation.com/typical-mass-shooters-are-in-their-20s-and-30s-suspects-in-californias-latest-killings-are-far-from-that-average-198486)
 
-[^28]: https://www.statista.com/statistics/476456/mass-shootings-in-the-us-by-shooter-s-race/ 
+[^28]: [Source](https://www.statista.com/statistics/476456/mass-shootings-in-the-us-by-shooter-s-race/)
 
-[^29]: https://www.theguardian.com/us-news/2022/aug/16/asian-americans-gun-ownership 
+[^29]: [Source](https://www.theguardian.com/us-news/2022/aug/16/asian-americans-gun-ownership)
 
-[^30]: https://www.sgvtribune.com/2023/01/31/it-hit-us-and-hit-us-hard-monterey-park-outlines-broader-support-services-after-mass-shooting/ 
+[^30]: [Source](https://www.sgvtribune.com/2023/01/31/it-hit-us-and-hit-us-hard-monterey-park-outlines-broader-support-services-after-mass-shooting/) 
 
-[^31]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347948/#:~:text=Ageism%20is%20an%20increasing%20concern,this%20culture%20hypothesis%20is%20inconclusive. Asians are probably almost as ageist as non-Asians.
+[^31]: [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347948/#:~:text=Ageism%20is%20an%20increasing%20concern,this%20culture%20hypothesis%20is%20inconclusive). Asians are probably almost as ageist as non-Asians.
 
 [^32]: Look up Kang Youwei once again
 
-[^33]: https://www.pasadenastarnews.com/2023/01/25/pechanga-band-of-indians-donates-100000-to-monterey-park-victims-fund/ 
+[^33]: [Source](https://www.pasadenastarnews.com/2023/01/25/pechanga-band-of-indians-donates-100000-to-monterey-park-victims-fund/)

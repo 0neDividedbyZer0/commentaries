@@ -24,7 +24,7 @@
 </head>
 
 <body class="{{ if .IsPage }}single-page{{ else }}list-page{{ end }}{{ if .IsHome }} front{{ end }}{{ with $.Param "bodyclass" }} {{ . }}{{ end }}">
-<div class="page layout__page{{ if $.Param "sidebar" }} layout__sidebar-second{{ end }}">
+<div class="page layout__page{{ if $.Param "sidebar" }} layout__sidebar-two{{ end }}">
 <header class="header layout__header mb--m">
 {{ if $.Param "logo" | default true -}}
 <a href="{{ "" | relLangURL }}" title="Home" rel="home" class="header__logo">
