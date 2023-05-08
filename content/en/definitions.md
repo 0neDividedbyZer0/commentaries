@@ -5,6 +5,7 @@ draft: false
 
 # Table of Contents
 1. [Asian American Ideas](#asian-american-ideas)
+2. [Postmodernism](#postmodernism)
 
 ## Asian American Ideas
 
@@ -20,8 +21,8 @@ One of the most important ideas regarding Asia ever. Originating in Edward Said'
 #### Simple Definition
 People define themselves against others.
 
-### Perpetual Foreignor
-The perpetual foreignor is the idea that Asians, no matter how assimilated they are, will never be fully considered American.
+### Perpetual Foreigner
+The perpetual foreigner is the idea that Asians, no matter how assimilated they are, will never be fully considered American.
 
 #### Simple Definition
 Asians can never be considered American.
@@ -49,5 +50,38 @@ This is an oftentimes irrational fear of foreignors, that usually relies on ster
 
 #### Simple Definition
 Fear of foreignors and anything foreign.
+
+## Postmodernism
+
+### Cultural Relativism
+The belief that each culture has its own values, beliefs, truths, and knowledge making that cannot be decontextualized or considered in absence of that context. There are alternative forms of logic. This does not mean a culture's practices or values are beyond critique, merely that one must consider their context.
+
+#### Simple Definition
+Cultures have differing values and beliefs, and you have to account for this alternative worldview.
+
+### Eclecticism
+Not bothering to have a consistent theory, and drawing upon several theories for explanation or analysis.
+
+#### Simple Definition
+Using whatever theory works then and there as an explanation.
+
+### Postmodernism
+The reaction to Modernism that manifests as a skepticism in grand theories and uncritical use of categories and theory. Some examples are Deconstruction, Foucaltian Discourse Analysis, Death of the Author, Social Constructivism, etc. 
+
+#### Simple Definition
+There is no overarching theory.
+
+### Modernism
+The large movement in the modern era which believes in grand theories and use of categories. Marxism, Fascism, Liberalism, Social Darwinism are some of the movements that can be considered Modernist.
+
+#### Simple Definition
+Believing in one complete theory to explain everything.
+
+### Social Constructivism
+Social Constructivism is the belief that facts and what is considered true or questionable is dependent on a society and consensus. There is weak social constructivism which believes there are objective truths, but society forms its categories and constructions on top of those, while strong social constructivism states that truth itself is societally contingent.
+
+#### Simple Definition
+Society determines truth and falseness and categories themselves.
+
 
 
